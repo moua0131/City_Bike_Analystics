@@ -1,18 +1,19 @@
-# Tableau Homework - Citi Bike Analytics
+# Citi Bike Analytics
 
 ### Before You Begin
 
-* This assignment will be saved to your tableau public account rather than github. 
+* Blah blah 
 
-* If you haven't already, be sure to create a tableau public account [here](https://public.tableau.com/s/).
+* Findings were used blah blah [here]
 
-* The free tier of tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your tableau public profile. 
+* The 
 
-* You are able to load and continue working on the same workbook.
+* You 
 
 * Dashboard for CitiBike report findings can be found here:  [Chou Moua](https://public.tableau.com/profile/chou.moua/#!/)
 
 ## Initial Findings
+## Start-End Locations
 
 ![Citi-Bikes](CitiBikeStartEnd.png)
 
