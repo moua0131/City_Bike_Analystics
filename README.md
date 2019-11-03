@@ -10,7 +10,7 @@
 
 * You are able to load and continue working on the same workbook.
 
-* When you are finished with your assignment, you will turn in the URL to your tableau public workbook along with any additional files used for your analysis. 
+* Dashboard for CitiBike report findings can be found here:  [Chou Moua] (https://public.tableau.com/profile/chou.moua#!/)
 
 ## Initial Findings
 
