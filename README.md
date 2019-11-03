@@ -2,6 +2,8 @@
 
 ### Report Contents
 
+* Sales findings from last year
+
 * Ridership start and end locations.  Possible implications 
 
 * Findings were used blah blah [here]
@@ -13,6 +15,9 @@
 * Dashboard for CitiBike report findings can be found here:  [Chou Moua](https://public.tableau.com/profile/chou.moua/#!/)
 
 ## Initial Findings
+![Findings](RidershipQ2.png)
+
+
 ## Start-End Locations
 
 ![Citi-Bikes](CitiBikeStartEnd.png)
