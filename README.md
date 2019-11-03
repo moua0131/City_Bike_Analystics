@@ -26,7 +26,15 @@ Data collected from 2018 Quarter 2 show heavy a fluctuation.  Upon further exami
 
 Initial reports from data collected by [Citi Bike Data](https://www.citibikenyc.com/system-data) indicate that on October 11, 2019 trends show that many of our CitiBikes do not end up where they start off.  This is assumed that with the end of the workday, some riders opt to bike back to thier homes in the outlying burroughs.  Implications from these findings show that, as expected, redistribution of CityBikes is in continued need to meet the ongoing traffic of users. 
 
+## CitiBike Users
 
+
+![Citi](CitiBikeUser.png)
+
+Taking a closer look at the average profile of CitiBike users is important in targeting efforts to address the needs, successes, and opportunities in the market.  From data collected from Sep 6th 2018, we can take a high-level understanding of our bikeshare users.  
+
+![Citi](DirectAge.png)
+From the graph above, we can see that the majority of our riders are between their mid-20s to early 40s.
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
