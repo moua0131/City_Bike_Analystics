@@ -3,10 +3,8 @@
 ### Report Contents
 
 * Ridership findings from last year
-
-* Ridership start and end locations.  Possible implications 
-
-* Findings were used blah blah [here]
+* Ridership start and end locations
+* CitiBike Users
 
 * The 
 
