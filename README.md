@@ -10,7 +10,7 @@
 
 * You are able to load and continue working on the same workbook.
 
-* Dashboard for CitiBike report findings can be found here:  [Chou Moua] (https://public.tableau.com/profile/chou.moua#!/)
+* Dashboard for CitiBike report findings can be found here:  [Chou Moua](https://public.tableau.com/profile/chou.moua/#!/)
 
 ## Initial Findings
 
