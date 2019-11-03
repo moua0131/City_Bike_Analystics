@@ -1,8 +1,8 @@
 # Citi Bike Analytics
 
-### Before You Begin
+### Report Contents
 
-* Blah blah 
+* Ridership start and end locations.  Possible implications 
 
 * Findings were used blah blah [here]
 
