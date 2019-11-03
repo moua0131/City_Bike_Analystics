@@ -12,9 +12,12 @@
 
 * When you are finished with your assignment, you will turn in the URL to your tableau public workbook along with any additional files used for your analysis. 
 
-## Background
+## Initial Findings
 
 ![Citi-Bikes](CitiBikeStartEnd.png)
+
+Initial reports from data collected by [Citi Bike Data](https://www.citibikenyc.com/system-data) indicate that on October 11, 2019 trends show that many of our CitiBikes do not end up where they start off.  This is assumed that with the end of the workday, some riders opt to bike back to thier homes in the outlying burroughs.  Implications from these findings show that, as expected, redistribution of CityBikes is in continued need to meet the ongoing traffic of users. 
+
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
