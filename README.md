@@ -2,7 +2,7 @@
 
 ### Report Contents
 
-* Sales findings from last year
+* Ridership findings from last year
 
 * Ridership start and end locations.  Possible implications 
 
@@ -14,8 +14,10 @@
 
 * Dashboard for CitiBike report findings can be found here:  [Chou Moua](https://public.tableau.com/profile/chou.moua/#!/)
 
-## Initial Findings
+## Ridership Findings from last Year
 ![Findings](RidershipQ2.png)
+
+Data collected from 2018 Quarter 2 show heavy a fluctuation.  Upon further examination, we have determined that ridership rose and fell heavily with the day of the week.  As expected, weekends drew more customers while Mondays to mid-week days drew less crowds. 
 
 
 ## Start-End Locations
